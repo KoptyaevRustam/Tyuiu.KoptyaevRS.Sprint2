@@ -21,7 +21,7 @@ namespace Tyuiu.KoptyaevRS.Sprint2.Task1.V20
             bool[] res = new bool[6];
             res = ds.GetLogicOperations(a, b, c, d);
 
-            Console.Title = "Спринт #1 | Выполнил: Коптяев Р. С. | АСОиУБ-23-3";
+            Console.Title = "Спринт #2 | Выполнил: Коптяев Р. С. | АСОиУБ-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Логические операции                                               *");
