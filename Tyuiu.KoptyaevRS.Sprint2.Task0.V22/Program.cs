@@ -19,7 +19,7 @@ namespace Tyuiu.KoptyaevRS.Sprint2.Task0.V22
             bool[] res = new bool[6];
             res = ds.GetCompareOperations(x, y);
 
-            Console.Title = "Спринт #2 | Выполнил: Коптяев Р. С. | АСОиУБ-23-3";
+            Console.Title = "Спринт #2 | Выполнил: Коптяев Р. С. |  АСОиУБ-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
