@@ -17,9 +17,9 @@ namespace Tyuiu.KoptyaevRS.Sprint2.Task6.V10
             Console.Title = "Спринт #2 | Выполнил: Коптяев Р. С. | АСОиУБ-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Оператор switch                                                   *");
-            Console.WriteLine("* Задание #5                                                              *");
-            Console.WriteLine("* Вариант #13                                                             *");
+            Console.WriteLine("* Тема: Получение результата из switch                                    *");
+            Console.WriteLine("* Задание #6                                                              *");
+            Console.WriteLine("* Вариант #10                                                             *");
             Console.WriteLine("* Выполнил: Коптяев Рустам Сергеевич | АСОиУБ-23-3                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
